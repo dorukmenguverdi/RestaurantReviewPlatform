@@ -134,7 +134,7 @@ Run all tests:
 ## 📸 Screenshots
 
 ### Home Page
-![Home_Page](screenshots/HomePage.png)
+![Home_Page](screenshots/Home.png)
 
 ### Restaurant 
 ![Restaurant](screenshots/Restaurant.png)  
